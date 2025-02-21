@@ -1,0 +1,1 @@
+{ "plugins": [ ["prismjs", { "languages": ["javascript", "css", "markup", "arduino", "cpp"], "plugins": ["line-numbers"], "theme": "dark", "css": true }] ] }
