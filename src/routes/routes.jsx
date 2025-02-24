@@ -13,7 +13,6 @@ function Rutas (){
       <Route  path="/Programacion" element={<Programacion />}></Route>
       <Route  path="/Programacion/Arduino" element={<ArduinoB />}></Route>
       <Route  path="*" element={<Error />}></Route>
-
     </Routes>
   )
 }
